@@ -1,10 +1,15 @@
 ---
 title: Architecture
 status: stable
-translation_key: architecture-01
+translation_key: architecture
 source_revision: 2026-09-09
 ---
 
 # Architecture
 
-System design.
+System design and architecture overview.
+
+- [Overview](overview.md) - Architecture overview
+- [State Management](state-management.md) - State management
+- [API Integration](api-integration.md) - API integration
+- [Design System](design-system.md) - Design system

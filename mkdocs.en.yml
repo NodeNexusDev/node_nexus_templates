@@ -14,9 +14,46 @@ extra_javascript:
 
 nav:
   - Home: index.md
-  - Getting Started: getting-started/index.md
-  - Guides: guides/index.md
-  - Operations: operations/index.md
-  - Development: development/index.md
-  - Architecture: architecture/index.md
-  - Reference: reference/index.md
+  - Getting Started:
+      - getting-started/index.md
+      - Installation: getting-started/installation.md
+      - Configuration: getting-started/configuration.md
+      - Authentication: getting-started/authentication.md
+  - Guides:
+      - guides/index.md
+      - Dashboard: guides/dashboard.md
+      - Nodes: guides/nodes.md
+      - Commands: guides/commands.md
+      - Scripts: guides/scripts.md
+      - Docker: guides/docker.md
+      - Templates: guides/templates.md
+      - Forms: guides/forms.md
+      - Theming: guides/theming.md
+      - Settings: guides/settings.md
+      - WebSocket: guides/websocket.md
+      - Troubleshooting: guides/troubleshooting.md
+      - FAQ: guides/faq.md
+  - Operations:
+      - operations/index.md
+      - Deployment: operations/deployment.md
+      - Environment: operations/environment.md
+      - Security: operations/security.md
+  - Development:
+      - development/index.md
+      - Local Setup: development/local-setup.md
+      - Workflow: development/workflow.md
+      - Testing: development/testing.md
+      - Components: development/components.md
+      - Documentation: development/documentation.md
+  - Architecture:
+      - architecture/index.md
+      - Overview: architecture/overview.md
+      - State Management: architecture/state-management.md
+      - API Integration: architecture/api-integration.md
+      - Design System: architecture/design-system.md
+  - Reference:
+      - reference/index.md
+      - Configuration: reference/configuration.md
+      - Error Catalog: reference/error-catalog.md
+      - Cheat Sheet: reference/cheat-sheet.md
+      - Glossary: reference/glossary.md
