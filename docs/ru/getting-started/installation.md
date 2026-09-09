@@ -1,6 +1,6 @@
 ---
 title: Установка
-status: stable
+status: draft
 translation_key: getting_started.installation
 source_revision: 2026-09-09
 ---

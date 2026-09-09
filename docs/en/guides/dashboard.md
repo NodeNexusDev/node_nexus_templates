@@ -1,6 +1,6 @@
 ---
 title: Dashboard
-status: stable
+status: draft
 translation_key: guides.dashboard
 source_revision: 2026-09-09
 ---

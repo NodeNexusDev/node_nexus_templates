@@ -1,6 +1,6 @@
 ---
 title: Переменные окружения
-status: stable
+status: draft
 translation_key: operations.environment
 source_revision: 2026-09-09
 ---

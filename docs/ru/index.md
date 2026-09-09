@@ -1,9 +1,12 @@
 ---
 title: Документация NodeNexus Templates
-status: stable
+status: draft
 translation_key: home
 source_revision: 2026-09-09
 ---
+
+!!! note "Скоро"
+    Эта документация находится в активной разработке. Некоторые страницы могут быть неполными или могут изменяться.
 
 # Документация NodeNexus Templates
 

@@ -1,6 +1,6 @@
 ---
 title: API Integration
-status: stable
+status: draft
 translation_key: architecture.api_integration
 source_revision: 2026-09-09
 ---

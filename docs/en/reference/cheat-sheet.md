@@ -1,6 +1,6 @@
 ---
 title: Cheat Sheet
-status: stable
+status: draft
 translation_key: reference.cheat_sheet
 source_revision: 2026-09-09
 ---

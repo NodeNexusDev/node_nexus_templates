@@ -1,6 +1,6 @@
 ---
 title: Деплой
-status: stable
+status: draft
 translation_key: operations.deployment
 source_revision: 2026-09-09
 ---

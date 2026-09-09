@@ -1,6 +1,6 @@
 ---
 title: Theming
-status: stable
+status: draft
 translation_key: guides.theming
 source_revision: 2026-09-09
 ---

@@ -1,6 +1,6 @@
 ---
 title: Overview
-status: stable
+status: draft
 translation_key: architecture.overview
 source_revision: 2026-09-09
 ---

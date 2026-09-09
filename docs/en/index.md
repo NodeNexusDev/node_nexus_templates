@@ -1,9 +1,12 @@
 ---
 title: NodeNexus Templates Documentation
-status: stable
+status: draft
 translation_key: home
 source_revision: 2026-09-09
 ---
+
+!!! note "Coming soon"
+    This documentation is under active development. Some pages may be incomplete or subject to change.
 
 # NodeNexus Templates Documentation
 

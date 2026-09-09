@@ -1,6 +1,6 @@
 ---
 title: Authentication
-status: stable
+status: draft
 translation_key: getting_started.authentication
 source_revision: 2026-09-09
 ---

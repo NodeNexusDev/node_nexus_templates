@@ -1,6 +1,6 @@
 ---
 title: Управление состоянием
-status: stable
+status: draft
 translation_key: architecture.state_management
 source_revision: 2026-09-09
 ---

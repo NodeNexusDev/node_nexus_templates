@@ -1,6 +1,6 @@
 ---
 title: FAQ
-status: stable
+status: draft
 translation_key: guides.faq
 source_revision: 2026-09-09
 ---

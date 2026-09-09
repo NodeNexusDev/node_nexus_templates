@@ -1,6 +1,6 @@
 ---
 title: Компоненты
-status: stable
+status: draft
 translation_key: development.components
 source_revision: 2026-09-09
 ---

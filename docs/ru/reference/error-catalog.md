@@ -1,6 +1,6 @@
 ---
 title: Каталог ошибок
-status: stable
+status: draft
 translation_key: reference.error_catalog
 source_revision: 2026-09-09
 ---

@@ -1,6 +1,6 @@
 ---
 title: WebSocket
-status: stable
+status: draft
 translation_key: guides.websocket
 source_revision: 2026-09-09
 ---
